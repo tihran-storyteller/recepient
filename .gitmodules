@@ -1,0 +1,3 @@
+[submodule "showcase2"]
+	path = showcase2
+	url = https://github.com/tihran-storyteller/donor2.git

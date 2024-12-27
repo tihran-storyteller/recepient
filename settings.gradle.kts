@@ -21,4 +21,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "apprecepient"
 include(":app")
+include(":showcase")
+project(":showcase").projectDir = File(rootDir, "showcase2/showcase")
+
+
  
